@@ -1,0 +1,31 @@
+Avatar capsule.png start at x 32 y 32 z 0 target x 220 y 32 z 0
+Calculated path in 3.49694 seconds
+distance to target is 211.118
+Avatar capsule.png start at x 54 y 85 z 60 target x 94 y 114 z 20
+Calculated path in 5.23849 seconds
+distance to target is 219.622
+Avatar lens.png start at x 50 y 86 z 60 target x 94 y 108 z 290
+Calculated path in 5.19694 seconds
+distance to target is 219.473
+Avatar capsule.png start at x 54 y 85 z 60 target x 124 y 246 z 270
+Calculated path in 5.43361 seconds
+distance to target is 330.131
+Avatar capsule.png start at x 136 y 50 z 0 target x 136 y 140 z 170
+Calculated path in 1.83443 seconds
+distance to target is 97.0416
+Avatar lens.png start at x 100 y 50 z 340 target x 170 y 50 z 20
+Calculated path in 0.789553 seconds
+distance to target is 71.6569
+Avatar rhombus.png start at x 32 y 32 z 0 target x 220 y 220 z 180
+Calculated path in 4.73528 seconds
+distance to target is 301.646
+Avatar rhombus.png start at x 32 y 32 z 180 target x 124 y 240 z 180
+Calculated path in 4.73627 seconds
+distance to target is 291.687
+Avatar rhombus.png start at x 124 y 240 z 180 target x 32 y 32 z 180
+Calculated path in 4.55486 seconds
+distance to target is 291.687
+Avatar lens.png start at x 240 y 240 z 100 target x 50 y 86 z 320
+Calculated path in 5.79247 seconds
+distance to target is 363.216
+

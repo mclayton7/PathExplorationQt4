@@ -1,0 +1,11 @@
+#!/bin/csh
+./findpath obst.png capsule.png  32  32   0 220  32   0
+./findpath obst.png capsule.png  54  85  60  94 114  20
+./findpath obst.png lens.png     50  86  60  94 108 290
+./findpath obst.png capsule.png  54  85  60 124 246 270
+./findpath obst.png capsule.png 136  50   0 136 140 170
+./findpath obst.png lens.png    100  50 340 170  50  20
+./findpath obst.png rhombus.png  32  32   0 220 220 180
+./findpath obst.png rhombus.png  32  32 180 124 240 180
+./findpath obst.png rhombus.png 124 240 180  32  32 180 
+./findpath obst.png lens.png    240 240 100  50  86 320
