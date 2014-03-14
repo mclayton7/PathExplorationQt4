@@ -2,7 +2,7 @@
 // Mac Clayton
 // mckenzieclayton@gatech.edu
 // Spring 2013
-// Tested with Qt4.8.4 on OSX 10.8.3
+// Tested with Qt4.8.5 on OSX 10.9
 *************************************************************/
 
 #include <iostream>
